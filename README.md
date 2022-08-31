@@ -1,5 +1,7 @@
 # Matebook-X-2017-Hackintosh-Opencore
  
+  未经本人允许，禁止转载到其他网站
+ 
 HUAWEI Matebook X 2017 Hackintosh EFI Opencore
  
 Processor         : Intel i5 7200u
